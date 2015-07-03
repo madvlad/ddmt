@@ -1,0 +1,3 @@
+./libav/avconv -i 33/33A.ogg -i 33/33B.ogg -filter_complex amix=inputs=2:duration=longest:dropout_transition=3 33/33.ogg
+
+./libav/avconv -i 9991/9991A.ogg -i 9991/9991B.ogg -filter_complex amix=inputs=2:duration=longest:dropout_transition=3 9991/9991.ogg

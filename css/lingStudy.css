@@ -1,0 +1,240 @@
+.lrounder{
+	float:left;
+	background-color:#ADD0E6;
+	border-bottom-right-radius:2em;
+	border-bottom-radius:2em;
+	border-right-radius:2em;
+	width: 2em;
+	height: 2em;
+}
+.rrounder{
+	float:right;
+	background-color:#ADD0E6;
+	border-bottom-left-radius:2em;
+	border-bottom-radius:2em;
+	border-left-radius:2em;
+	width:2em;
+	height:2em;
+}
+.clearbar{
+	clear:both;
+}
+.centerTab{
+  float: left;
+  width: 37.5%;
+}
+.rightTab{
+  float: left;
+  width: 37.5%;
+}
+.leftTab{
+  float: left;
+  width 23%;
+}
+#tabNav{
+	/*background-color: #015C65; dark green*/
+	/*background-color: #41596B; purple */
+	background-color: #41596B;
+	list-style-type:none;
+
+}
+#tabNav>li{
+	display: inline;
+	margin: 5px;
+}
+#tabNav>li>a{
+	color: #B6DBF2;
+}
+.current>a{
+	font-weight:bold;
+}
+body{
+	/*background-color: #7EDAA1; old green*/
+	background-color: #738BBF;
+}
+.tabdiv{
+	background-color:#41596B;
+	color: #B6DBF2;
+	float: left;
+	border: 1px solid #B6DBF2;
+}
+.legendTable{
+   background-color:#41596B;
+   color: #B6DBF2;
+   margin-left: 1px;
+   border: 1px solid #B6DBF2;
+}
+.form-signin{
+	background-color:#41596B;
+	color: #B6DBF2;
+	float: left;
+	width: 40%;
+	text-align: center;
+}
+.form-recovery{
+   background-color:#41596B;
+   color: #B6DBF2;
+   margin: 0 auto;
+   width: 40%;
+   text-align: center;
+}
+#testlog_form{
+	margin-right: 8%;
+}
+#login_form{
+	margin-left:8%;
+	margin-right:2%;
+}
+.textDump{
+	clear: both;
+	border: 1px solid black;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.form-add{
+	float: left;
+	width: 50%;
+	border: 1px solid #B6DBF2;
+	background-color: #41596B;
+	color: #B6DBF2;
+	margin-bottom: 2px;
+	margin-right: 2%;
+}
+.form-add-right{
+	float: right;
+	width: 40%;
+	border: 1px solid #B6DBF2;
+	background-color: #41596B;
+	color: #B6DBF2;
+	margin-bottom: 2px;
+	margin-right: 2%;
+}
+.removalButton{
+	background-color: #660033;
+   border-top-left-radius:1em;
+   border-top-right-radius:1em;
+   border: 1px solid #B6DBF2;
+   color: #B6DBF2;
+}
+
+.submitButton{
+	background-color: #1947D1;
+	border-top-left-radius:1em;
+	border-top-right-radius:1em;
+	border: 1px solid #B6DBF2;
+	color: #B6DBF2;
+}
+.submitButtonCenter{
+   background-color: #1947D1;
+   border-top-left-radius:1em;
+   border-top-right-radius:1em;
+   border: 1px solid #B6DBF2;
+   color: #B6DBF2;
+   margin-left:auto;
+   margin-right:auto;
+   display:block;
+}
+#templateSelectionBox{
+  -moz-appearance:button; /* Firefox */
+   -webkit-appearance:button; /* Safari and Chrome */
+   background-color: #1947D1;
+   border: 1px solid #B6DBF2;
+   color: #B6DBF2;
+   padding: 0 2em; 
+}
+td>select{
+	-moz-appearance:button; /* Firefox */
+	-webkit-appearance:button; /* Safari and Chrome */
+	background-color: #1947D1;
+   border: 1px solid #B6DBF2;
+   color: #B6DBF2;
+	padding: 0 2em;
+}
+.sidebar{
+	float:left;
+	height: 100%;
+   width:25%;
+}
+.midbar{
+	float:left;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+}
+.transbox{
+	height: 200px;
+	width: 75%;
+	text-align:left;
+}
+.base{
+  color: #19FFD7;
+}
+.prog{
+  font-style:italic;
+  color: #19FFD7;
+}
+.done{
+  text-shadow: black 0.1em 0.1em 0.2em;
+  color: #19FFD7;
+}
+.progCon{
+  font-style:italic;
+  color:#FF9966;
+}
+.doneCon{
+  text-shadow: black 0.1em 0.1em 0.2em;
+  color:#FF9966;
+}
+.baseCon{
+  color:#FF9966;
+}
+.SP{
+  display:none;
+}
+.UP{
+  display:none;
+}
+.audplay{
+  visibility: hidden;
+}
+#end-call{
+	visibility:hidden;
+}
+.hiddenContent{
+  visibility:hidden;
+}
+.revSub{
+float: left;
+border: 1px solid #B6DBF2;
+   background-color: #41596B;
+   color: #B6DBF2;
+}
+.boardButton{
+  border: 1px solid #B6DBF2;
+   background-color: #41596B;
+   color: #B6DBF2;
+}
+#sesscb{
+  float:left;
+}
+.contain{
+  width:80%;
+}
+.installForm{
+   width: 50%;
+   border: 1px solid #B6DBF2;
+   background-color: #41596B;
+   color: #B6DBF2;
+   margin-right: auto;
+   margin-left:auto;
+}
+.installForm>h1{
+	text-align:center;
+}
+.installForm>h2{
+  text-align:center;
+}
+.setupTest{
+  color:#FFD65C;
+}
