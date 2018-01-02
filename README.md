@@ -11,17 +11,6 @@ enough to be used for linguistic and psychological research experiments at
 the University of Puerto Rico at Mayaguez. The developers aim for it to be
 scalable, portable, and very light-weight.
 
-The Latest Version
-------------------
-
-It is more than likely that you are using the latest version. More accurate
-information can be found on the github page at : <github link>
-
-Documentation
--------------
-
-<Information about where the manual is and what format it is in>
-
 Installation
 ------------
 
